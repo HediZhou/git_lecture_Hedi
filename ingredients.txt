@@ -2,9 +2,6 @@ tomato
 garlic 
 salt 
 black pepper
-merge conflict
-test of the -m
-11
 avocado
 lime 
 meat
