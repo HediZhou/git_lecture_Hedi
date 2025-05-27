@@ -1,9 +1,10 @@
 tomato
-testing merge
+garlic 
+salt 
+pepper
+merge conflict
 test of the -m
 11
 avocado
 lime 
-garlic 
-salt 
-pepper
+
